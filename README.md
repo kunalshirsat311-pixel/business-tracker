@@ -18,11 +18,6 @@ Business Tracker gives shop owners a dead-simple interface to:
 
 ---
 
-## Screenshots
-
-> Coming soon
-
----
 
 ## Features
 
